@@ -4,10 +4,9 @@ English · [简体中文](README.zh-CN.md)
 
 A DeepSeek Harness plugin that surfaces key reasoning moments and their tool calls above the chat input.
 
-```text
-Pivot  Wait — the cache key ignores the session.
-❯ rg "cacheKey" src/
-```
+![CoT Keyframes in light and dark themes](assets/preview.png)
+
+*Component preview · Light and dark themes.*
 
 - Highlights corrections, pivots, and discoveries in English and Chinese.
 - Pairs each highlight with tool calls from the same step; surfaces tool failures.

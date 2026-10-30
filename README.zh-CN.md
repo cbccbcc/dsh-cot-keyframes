@@ -4,10 +4,9 @@
 
 一个 DeepSeek Harness 插件，在输入框上方，用两行展示关键思考句和对应的工具调用。
 
-```text
-转向  Wait — the cache key ignores the session.
-❯ rg "cacheKey" src/
-```
+![CoT Keyframes 浅色与深色主题效果](assets/preview.png)
+
+*组件效果预览 · 浅色与深色主题。*
 
 - 捕捉自我纠错、思路转向和新发现，支持中英文信号。
 - 关键句关联同一步的工具调用，工具失败时显示错误。

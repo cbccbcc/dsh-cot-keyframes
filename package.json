@@ -31,6 +31,7 @@
   },
   "files": [
     "README.zh-CN.md",
+    "assets/preview.png",
     "icon.svg",
     "locale/*.json",
     "lib/index.js",
