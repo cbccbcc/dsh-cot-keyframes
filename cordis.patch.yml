@@ -1,0 +1,5 @@
+# cot-keyframes：把 COT 的关键句按节奏播一遍，放在输入框上方。
+# 单包双身份：dsh.bundle.patch 提供配置层，dsh.client 提供浏览器半边。
+- insert:
+    - id: cot-keyframes
+      name: dsh-plugin-cot-keyframes
