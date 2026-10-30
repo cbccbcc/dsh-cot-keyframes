@@ -30,6 +30,7 @@
     }
   },
   "files": [
+    "README.zh-CN.md",
     "icon.svg",
     "locale/*.json",
     "lib/index.js",
